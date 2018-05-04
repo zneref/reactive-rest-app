@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
-import zneref.reactiverest.repository.MovieRepository;
 import zneref.reactiverest.model.Movie;
 import zneref.reactiverest.service.MovieService;
 
